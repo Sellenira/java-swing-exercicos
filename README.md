@@ -12,10 +12,17 @@ Exercícios da faculdade para a prática de Java com o WindowBuilder para criaç
 
 # Demonstração do projeto 🔬
 ---
+###Exercício 1:
+![ex1-Java](https://user-images.githubusercontent.com/78499911/118743082-0a8ac000-b828-11eb-887c-7c10284fd654.jpg)
 
-![demo](https://user-images.githubusercontent.com/78499911/110220707-32fc5280-7ea6-11eb-8d30-82e129474c98.jpg)
+###Exercício 2:
+![ex2-Java](https://user-images.githubusercontent.com/78499911/118743088-0d85b080-b828-11eb-9675-f5459b6cfa1e.jpg)
 
-![IMG-3900_Easy-Resize com](https://user-images.githubusercontent.com/78499911/110247620-df444480-7f4b-11eb-9ee3-7fc1b33c5156.jpg)
+###Exercício 3:
+![ex3-original-Java](https://user-images.githubusercontent.com/78499911/118743093-0fe80a80-b828-11eb-85f1-ceb510954322.jpg)
+
+###Exercício 4:
+![ex3-Java](https://user-images.githubusercontent.com/78499911/118743098-11b1ce00-b828-11eb-943e-8fe4e4271a9f.jpg)
 	
 ---
 Desenvolvido por Marselle Nira 🙋
